@@ -1,7 +1,7 @@
 <?php
 /*
 by KasperTP 
-Ch : @dev_kasper and @errorphp
+Ch : @sms_bm
 */
 ob_start();
 define("API_KEY", "توكن البوت");
